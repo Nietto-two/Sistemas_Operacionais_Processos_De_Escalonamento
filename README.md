@@ -1,1 +1,1 @@
-# Entrega_Trabalhos_Sistemas_Operacionais_Thiago_Nietto
+# Sistemas_Operacionais_Thiago_Nietto
